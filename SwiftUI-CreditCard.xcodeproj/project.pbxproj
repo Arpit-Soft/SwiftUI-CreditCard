@@ -11,6 +11,7 @@
 		2DE187D226DE5D0F004DDEE0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE187D126DE5D0F004DDEE0 /* ContentView.swift */; };
 		2DE187D426DE5D13004DDEE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DE187D326DE5D13004DDEE0 /* Assets.xcassets */; };
 		2DE187D726DE5D13004DDEE0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DE187D626DE5D13004DDEE0 /* Preview Assets.xcassets */; };
+		2DE187E026DE5D9C004DDEE0 /* CreditCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE187DF26DE5D9C004DDEE0 /* CreditCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		2DE187D326DE5D13004DDEE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2DE187D626DE5D13004DDEE0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2DE187D826DE5D13004DDEE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2DE187DF26DE5D9C004DDEE0 /* CreditCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				2DE187D326DE5D13004DDEE0 /* Assets.xcassets */,
 				2DE187D826DE5D13004DDEE0 /* Info.plist */,
 				2DE187D526DE5D13004DDEE0 /* Preview Content */,
+				2DE187DF26DE5D9C004DDEE0 /* CreditCard.swift */,
 			);
 			path = "SwiftUI-CreditCard";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2DE187E026DE5D9C004DDEE0 /* CreditCard.swift in Sources */,
 				2DE187D226DE5D0F004DDEE0 /* ContentView.swift in Sources */,
 				2DE187D026DE5D0F004DDEE0 /* SwiftUI_CreditCardApp.swift in Sources */,
 			);
